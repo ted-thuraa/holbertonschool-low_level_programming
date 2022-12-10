@@ -61,7 +61,7 @@ ___
 ### Technologies Used
 
 * Language: Bash, C90
-* Operating System: Ubuntu 14.04 LTS (Trusty64)
+* Operating System: Ubuntu 20.04 LTS (Trusty64)
 * Style: Holberton Betty
 * Compiler: gcc 4.8.4 with flags -Wall -Werror -Wextra -Wpedantic
 * Version Control: Git
@@ -70,6 +70,6 @@ ___
 
 ### Social Media
 
-[Linkedin](https://www.linkedin.com/in/bryanleung92/)
+[Linkedin](https://www.linkedin.com/in/teddy-mutwiri-37a356207/)
 
-[Twitter: @bynleung](https://twitter.com/BynLeung)
+
