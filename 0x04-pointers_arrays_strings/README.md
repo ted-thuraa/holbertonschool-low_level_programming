@@ -1,4 +1,10 @@
+**Resources**
+[c-arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
+[c-pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+[c-strings](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+[Memory layout](https://aticleworld.com/memory-layout-of-c-program/)
 # What I learned from this project  
+
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:  
 ---   
 
