@@ -1,3 +1,12 @@
+**resources***
+
+[concept pointers](https://alx-intranet.hbtn.io/concepts/60)
+[c-pointer to pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
+[c-pointer to pointer with example](https://beginnersbook.com/2014/01/c-pointer-to-pointer/)
+[multi dimentional array in c](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
+[2d array in c with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+
+
 # What I learned from this project  
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:  
 ---   
